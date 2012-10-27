@@ -1,0 +1,10 @@
+d:\c#\SpookyVision\SpookyVision\Launcher\obj\x86\Release\ResolveAssemblyReference.cache
+d:\c#\SpookyVision\SpookyVision\Launcher\bin\Release\svchost.exe
+d:\c#\SpookyVision\SpookyVision\Launcher\bin\Release\svchost.pdb
+d:\c#\SpookyVision\SpookyVision\Launcher\obj\x86\Release\svchost.exe
+d:\c#\SpookyVision\SpookyVision\Launcher\obj\x86\Release\svchost.pdb
+D:\C#\SpookyVision\SpookyVision\BigBrother\bin\Release\svchost.exe
+D:\C#\SpookyVision\SpookyVision\BigBrother\bin\Release\svchost.pdb
+D:\C#\SpookyVision\SpookyVision\BigBrother\obj\x86\Release\ResolveAssemblyReference.cache
+D:\C#\SpookyVision\SpookyVision\BigBrother\obj\x86\Release\svchost.exe
+D:\C#\SpookyVision\SpookyVision\BigBrother\obj\x86\Release\svchost.pdb

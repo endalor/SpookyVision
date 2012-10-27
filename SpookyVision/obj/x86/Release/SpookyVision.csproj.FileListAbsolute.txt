@@ -1,0 +1,12 @@
+d:\c#\SpookyVision\SpookyVision\SpookyVision\bin\Release\SpookyVision.exe
+d:\c#\SpookyVision\SpookyVision\SpookyVision\bin\Release\SpookyVision.pdb
+d:\c#\SpookyVision\SpookyVision\SpookyVision\obj\x86\Release\ResolveAssemblyReference.cache
+d:\c#\SpookyVision\SpookyVision\SpookyVision\obj\x86\Release\SpookyVision.Main.resources
+d:\c#\SpookyVision\SpookyVision\SpookyVision\obj\x86\Release\SpookyVision.Properties.Resources.resources
+d:\c#\SpookyVision\SpookyVision\SpookyVision\obj\x86\Release\SpookyVision.Spooky.resources
+d:\c#\SpookyVision\SpookyVision\SpookyVision\obj\x86\Release\SpookyVision.Vision.resources
+d:\c#\SpookyVision\SpookyVision\SpookyVision\obj\x86\Release\GenerateResource.read.1.tlog
+d:\c#\SpookyVision\SpookyVision\SpookyVision\obj\x86\Release\GenerateResource.write.1.tlog
+d:\c#\SpookyVision\SpookyVision\SpookyVision\obj\x86\Release\SpookyVision.exe
+d:\c#\SpookyVision\SpookyVision\SpookyVision\obj\x86\Release\SpookyVision.pdb
+D:\C#\SpookyVision\SpookyVision\SpookyVision\obj\x86\Release\SpookyVision.Head.resources

@@ -1,0 +1,23 @@
+C:\Users\Jordan\AppData\Local\Temporary Projects\SpookyVision\bin\Debug\SpookyVision.exe
+C:\Users\Jordan\AppData\Local\Temporary Projects\SpookyVision\bin\Debug\SpookyVision.pdb
+C:\Users\Jordan\AppData\Local\Temporary Projects\SpookyVision\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Jordan\AppData\Local\Temporary Projects\SpookyVision\obj\x86\Debug\SpookyVision.Properties.Resources.resources
+C:\Users\Jordan\AppData\Local\Temporary Projects\SpookyVision\obj\x86\Debug\SpookyVision.Spooky.resources
+C:\Users\Jordan\AppData\Local\Temporary Projects\SpookyVision\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Jordan\AppData\Local\Temporary Projects\SpookyVision\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Jordan\AppData\Local\Temporary Projects\SpookyVision\obj\x86\Debug\SpookyVision.exe
+C:\Users\Jordan\AppData\Local\Temporary Projects\SpookyVision\obj\x86\Debug\SpookyVision.pdb
+C:\Users\Jordan\AppData\Local\Temporary Projects\SpookyVision\obj\x86\Debug\SpookyVision.Main.resources
+C:\Users\Jordan\AppData\Local\Temporary Projects\SpookyVision\obj\x86\Debug\SpookyVision.Vision.resources
+d:\c#\SpookyVision\SpookyVision\SpookyVision\obj\x86\Debug\SpookyVision.exe
+d:\c#\SpookyVision\SpookyVision\SpookyVision\obj\x86\Debug\SpookyVision.pdb
+d:\c#\SpookyVision\SpookyVision\SpookyVision\bin\Debug\SpookyVision.exe
+d:\c#\SpookyVision\SpookyVision\SpookyVision\bin\Debug\SpookyVision.pdb
+d:\c#\SpookyVision\SpookyVision\SpookyVision\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\c#\SpookyVision\SpookyVision\SpookyVision\obj\x86\Debug\SpookyVision.Main.resources
+d:\c#\SpookyVision\SpookyVision\SpookyVision\obj\x86\Debug\SpookyVision.Properties.Resources.resources
+d:\c#\SpookyVision\SpookyVision\SpookyVision\obj\x86\Debug\SpookyVision.Spooky.resources
+d:\c#\SpookyVision\SpookyVision\SpookyVision\obj\x86\Debug\SpookyVision.Vision.resources
+d:\c#\SpookyVision\SpookyVision\SpookyVision\obj\x86\Debug\GenerateResource.read.1.tlog
+d:\c#\SpookyVision\SpookyVision\SpookyVision\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\C#\SpookyVision\SpookyVision\SpookyVision\obj\x86\Debug\SpookyVision.Head.resources

@@ -1,0 +1,5 @@
+d:\c#\SpookyVision\SpookyVision\Launcher\bin\Release\Launcher.exe
+d:\c#\SpookyVision\SpookyVision\Launcher\bin\Release\Launcher.pdb
+d:\c#\SpookyVision\SpookyVision\Launcher\obj\x86\Release\ResolveAssemblyReference.cache
+d:\c#\SpookyVision\SpookyVision\Launcher\obj\x86\Release\Launcher.exe
+d:\c#\SpookyVision\SpookyVision\Launcher\obj\x86\Release\Launcher.pdb

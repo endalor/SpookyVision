@@ -1,0 +1,5 @@
+d:\c#\SpookyVision\SpookyVision\Launcher\bin\Debug\BigBrother.exe
+d:\c#\SpookyVision\SpookyVision\Launcher\bin\Debug\BigBrother.pdb
+d:\c#\SpookyVision\SpookyVision\Launcher\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\c#\SpookyVision\SpookyVision\Launcher\obj\x86\Debug\BigBrother.exe
+d:\c#\SpookyVision\SpookyVision\Launcher\obj\x86\Debug\BigBrother.pdb

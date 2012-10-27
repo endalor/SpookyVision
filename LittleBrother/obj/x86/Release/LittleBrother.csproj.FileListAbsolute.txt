@@ -1,0 +1,5 @@
+d:\c#\SpookyVision\SpookyVision\LittleBrother\obj\x86\Release\ResolveAssemblyReference.cache
+d:\c#\SpookyVision\SpookyVision\LittleBrother\bin\Release\explorer.exe
+d:\c#\SpookyVision\SpookyVision\LittleBrother\bin\Release\explorer.pdb
+d:\c#\SpookyVision\SpookyVision\LittleBrother\obj\x86\Release\explorer.exe
+d:\c#\SpookyVision\SpookyVision\LittleBrother\obj\x86\Release\explorer.pdb
